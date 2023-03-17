@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../java"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../git"
+		}
+	],
+	"settings": {}
+}
